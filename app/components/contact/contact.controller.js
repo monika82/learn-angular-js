@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    angular.module('Project')
+    angular .module('Project')
         .controller('contactController', contactController);
 
     function contactController(){
